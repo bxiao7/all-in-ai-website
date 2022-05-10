@@ -361,7 +361,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 28px 11px 28px;
   border-radius: 50px;
   transition: 0.5s;
-  margin: 10px 0 0 0;
+  margin: 10px 10px 0 0;
   color: #fff;
   background: #8abd91;
 }
@@ -388,7 +388,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #8abd91;
 }
 #hero .animated {
-  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  animation: up-down 0s ease-in-out infinite alternate-reverse both;
 }
 @media (max-width: 991px) {
   #hero {
